@@ -1,0 +1,46 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Carros</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string-array name="strCategorias">
+        <item>Marcas de Carro</item>
+        <item>Volkswagen</item>
+        <item>Ford</item>
+        <item>Chevrolet</item>
+        <item>Renault</item>
+        <item>Outros</item>
+    </string-array>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="quantidade">Quantity</string>
+    <string name="salvar">Save</string>
+    <string name="nomedoprod">Product name...</string>
+    <string name="alert">You must fill in all fields!</string>
+    <string name="CEP" translatable="false">Confirm product deletion: </string>
+    <string name="excluir" translatable="false">Delete...</string>
+    <string name="cancelar" translatable="false">Cancel</string>
+    <string name="sim" translatable="false">Yes</string>
+    <string name="digiteemail" translatable="false">Informe o e-mail</string>
+    <string name="senha" translatable="false">Senha</string>
+    <string name="entrar" translatable="false">LOGIN</string>
+    <string name="cadastrar" translatable="false">REGISTER</string>
+    <string name="bemvindo">Bem vindo!</string>
+    <string name="addProd">Add products</string>
+    <string name="exit">Exit</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+</resources>
